@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "rail1fix2",
+        "1": "rail2fix",
+        "2": "racksfix"
+      },
+      "name": "default"
+    }
+  }
+}

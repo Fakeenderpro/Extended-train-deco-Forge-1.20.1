@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bin_0",
+        "1": "bin_1",
+        "2": "bin_2",
+        "3": "bin_3"
+      },
+      "name": "default"
+    }
+  }
+}

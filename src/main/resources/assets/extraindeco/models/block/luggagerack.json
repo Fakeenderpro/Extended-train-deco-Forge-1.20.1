@@ -1,0 +1,11 @@
+{
+  "parent": "extraindeco:custom/luggage_rack2",
+  "textures": {
+    "all": "extraindeco:block/rail1fix2",
+    "particle": "extraindeco:block/rail1fix2",
+    "0": "extraindeco:block/rail1fix2",
+    "1": "extraindeco:block/rail2fix",
+    "2": "extraindeco:block/racksfix"
+  },
+  "render_type": "solid"
+}

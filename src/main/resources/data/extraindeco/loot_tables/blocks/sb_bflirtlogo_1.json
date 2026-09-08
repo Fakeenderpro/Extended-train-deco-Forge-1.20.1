@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "extraindeco:blocks/sb_bflirtlogo_1",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "extraindeco:sb_bflirtlogo_1"
+        }
+      ]
+    }
+  ]
+}

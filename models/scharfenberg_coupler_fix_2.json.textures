@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "5": "sb2",
+        "6": "cp2",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

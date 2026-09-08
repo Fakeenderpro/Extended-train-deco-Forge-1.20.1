@@ -1,0 +1,1628 @@
+{
+  "mod_elements": [
+    {
+      "name": "Traintable",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "train_table",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/blockstates/train_table.json",
+          "src/main/resources/assets/extraindeco/models/block/train_table.json",
+          "src/main/resources/assets/extraindeco/models/item/train_table.json",
+          "src/main/java/net/kconlac/extraindeco/block/TraintableBlock.java",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/train_table.json"
+        ]
+      }
+    },
+    {
+      "name": "TraintableX",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "traintable_x",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/traintable_x.json"
+        ]
+      }
+    },
+    {
+      "name": "B",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creativetab",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Bin",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bin",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/bin.json"
+        ]
+      }
+    },
+    {
+      "name": "Trainbin",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trainbin",
+      "metadata": {
+        "files": [
+          "src/main/java/net/kconlac/extraindeco/block/TrainbinBlock.java",
+          "src/main/resources/assets/extraindeco/models/block/trainbin.json",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/trainbin.json",
+          "src/main/resources/assets/extraindeco/models/item/trainbin.json",
+          "src/main/resources/assets/extraindeco/blockstates/trainbin.json"
+        ]
+      }
+    },
+    {
+      "name": "Platformsign1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platformsign_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/blockstates/platformsign_1.json",
+          "src/main/resources/assets/extraindeco/models/block/platformsign_1.json",
+          "src/main/java/net/kconlac/extraindeco/block/Platformsign1Block.java",
+          "src/main/resources/assets/extraindeco/models/item/platformsign_1.json",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/platformsign_1.json"
+        ]
+      }
+    },
+    {
+      "name": "Platformsign2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platformsign_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/loot_tables/blocks/platformsign_2.json",
+          "src/main/resources/assets/extraindeco/blockstates/platformsign_2.json",
+          "src/main/resources/assets/extraindeco/models/block/platformsign_2.json",
+          "src/main/resources/assets/extraindeco/models/item/platformsign_2.json",
+          "src/main/java/net/kconlac/extraindeco/block/Platformsign2Block.java"
+        ]
+      }
+    },
+    {
+      "name": "Platformsign3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platformsign_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/blockstates/platformsign_3.json",
+          "src/main/java/net/kconlac/extraindeco/block/Platformsign3Block.java",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/platformsign_3.json",
+          "src/main/resources/assets/extraindeco/models/item/platformsign_3.json",
+          "src/main/resources/assets/extraindeco/models/block/platformsign_3.json"
+        ]
+      }
+    },
+    {
+      "name": "Platformsign4",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platformsign_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/loot_tables/blocks/platformsign_4.json",
+          "src/main/resources/assets/extraindeco/models/block/platformsign_4.json",
+          "src/main/java/net/kconlac/extraindeco/block/Platformsign4Block.java",
+          "src/main/resources/assets/extraindeco/blockstates/platformsign_4.json",
+          "src/main/resources/assets/extraindeco/models/item/platformsign_4.json"
+        ]
+      }
+    },
+    {
+      "name": "Platformsign5",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platformsign_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/models/item/platformsign_5.json",
+          "src/main/resources/assets/extraindeco/blockstates/platformsign_5.json",
+          "src/main/java/net/kconlac/extraindeco/block/Platformsign5Block.java",
+          "src/main/resources/assets/extraindeco/models/block/platformsign_5.json",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/platformsign_5.json"
+        ]
+      }
+    },
+    {
+      "name": "Platformsign6",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platformsign_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/blockstates/platformsign_6.json",
+          "src/main/java/net/kconlac/extraindeco/block/Platformsign6Block.java",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/platformsign_6.json",
+          "src/main/resources/assets/extraindeco/models/block/platformsign_6.json",
+          "src/main/resources/assets/extraindeco/models/item/platformsign_6.json"
+        ]
+      }
+    },
+    {
+      "name": "Platformsign7",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platformsign_7",
+      "metadata": {
+        "files": [
+          "src/main/java/net/kconlac/extraindeco/block/Platformsign7Block.java",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/platformsign_7.json",
+          "src/main/resources/assets/extraindeco/models/item/platformsign_7.json",
+          "src/main/resources/assets/extraindeco/blockstates/platformsign_7.json",
+          "src/main/resources/assets/extraindeco/models/block/platformsign_7.json"
+        ]
+      }
+    },
+    {
+      "name": "Platformsign8",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platformsign_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/models/item/platformsign_8.json",
+          "src/main/resources/assets/extraindeco/blockstates/platformsign_8.json",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/platformsign_8.json",
+          "src/main/resources/assets/extraindeco/models/block/platformsign_8.json",
+          "src/main/java/net/kconlac/extraindeco/block/Platformsign8Block.java"
+        ]
+      }
+    },
+    {
+      "name": "Platformsign9",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platformsign_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/blockstates/platformsign_9.json",
+          "src/main/resources/assets/extraindeco/models/block/platformsign_9.json",
+          "src/main/java/net/kconlac/extraindeco/block/Platformsign9Block.java",
+          "src/main/resources/assets/extraindeco/models/item/platformsign_9.json",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/platformsign_9.json"
+        ]
+      }
+    },
+    {
+      "name": "Platformsign10",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platformsign_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/loot_tables/blocks/platformsign_10.json",
+          "src/main/resources/assets/extraindeco/models/item/platformsign_10.json",
+          "src/main/resources/assets/extraindeco/models/block/platformsign_10.json",
+          "src/main/java/net/kconlac/extraindeco/block/Platformsign10Block.java",
+          "src/main/resources/assets/extraindeco/blockstates/platformsign_10.json"
+        ]
+      }
+    },
+    {
+      "name": "Platformsign1T",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platformsign_1_t",
+      "metadata": {
+        "files": [
+          "src/main/java/net/kconlac/extraindeco/block/Platformsign1TBlock.java",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/platformsign_1_t.json",
+          "src/main/resources/assets/extraindeco/blockstates/platformsign_1_t.json",
+          "src/main/resources/assets/extraindeco/models/block/platformsign_1_t.json",
+          "src/main/resources/assets/extraindeco/models/item/platformsign_1_t.json"
+        ]
+      }
+    },
+    {
+      "name": "Platformsign2T",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platformsign_2_t",
+      "metadata": {
+        "files": [
+          "src/main/java/net/kconlac/extraindeco/block/Platformsign2TBlock.java",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/platformsign_2_t.json",
+          "src/main/resources/assets/extraindeco/blockstates/platformsign_2_t.json",
+          "src/main/resources/assets/extraindeco/models/block/platformsign_2_t.json",
+          "src/main/resources/assets/extraindeco/models/item/platformsign_2_t.json"
+        ]
+      }
+    },
+    {
+      "name": "Luggageracks",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "luggageracks",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/luggageracks.json"
+        ]
+      }
+    },
+    {
+      "name": "Luggagerack",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "luggagerack",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/loot_tables/blocks/luggagerack.json",
+          "src/main/resources/assets/extraindeco/blockstates/luggagerack.json",
+          "src/main/resources/assets/extraindeco/models/block/luggagerack.json",
+          "src/main/java/net/kconlac/extraindeco/block/LuggagerackBlock.java",
+          "src/main/resources/assets/extraindeco/models/item/luggagerack.json"
+        ]
+      }
+    },
+    {
+      "name": "Doorred",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trenitalialogo1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/kconlac/extraindeco/block/DoorredBlock.java",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/trenitalialogo1.json",
+          "src/main/resources/assets/extraindeco/models/block/trenitalialogo1.json",
+          "src/main/resources/assets/extraindeco/blockstates/trenitalialogo1.json",
+          "src/main/resources/assets/extraindeco/models/item/trenitalialogo1.json"
+        ]
+      }
+    },
+    {
+      "name": "SBBblue",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sb_bblue",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/blockstates/sb_bblue.json",
+          "src/main/java/net/kconlac/extraindeco/block/SBBblueBlock.java",
+          "src/main/resources/assets/extraindeco/models/item/sb_bblue.json",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/sb_bblue.json",
+          "src/main/resources/assets/extraindeco/models/block/sb_bblue.json"
+        ]
+      }
+    },
+    {
+      "name": "Icdayline",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icdayline1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/blockstates/icdayline1.json",
+          "src/main/resources/assets/extraindeco/models/item/icdayline1.json",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/icdayline1.json",
+          "src/main/java/net/kconlac/extraindeco/block/IcdaylineBlock.java",
+          "src/main/resources/assets/extraindeco/models/block/icdayline1.json"
+        ]
+      }
+    },
+    {
+      "name": "Icdayline2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icdayline_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/loot_tables/blocks/icdayline_2.json",
+          "src/main/resources/assets/extraindeco/blockstates/icdayline_2.json",
+          "src/main/resources/assets/extraindeco/models/block/icdayline_2.json",
+          "src/main/java/net/kconlac/extraindeco/block/Icdayline2Block.java",
+          "src/main/resources/assets/extraindeco/models/item/icdayline_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Icdayline3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icdayline_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/loot_tables/blocks/icdayline_3.json",
+          "src/main/java/net/kconlac/extraindeco/block/Icdayline3Block.java",
+          "src/main/resources/assets/extraindeco/models/block/icdayline_3.json",
+          "src/main/resources/assets/extraindeco/blockstates/icdayline_3.json",
+          "src/main/resources/assets/extraindeco/models/item/icdayline_3.json"
+        ]
+      }
+    },
+    {
+      "name": "Icdayline4",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "icdayline_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/models/item/icdayline_4.json",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/icdayline_4.json",
+          "src/main/resources/assets/extraindeco/blockstates/icdayline_4.json",
+          "src/main/resources/assets/extraindeco/models/block/icdayline_4.json",
+          "src/main/java/net/kconlac/extraindeco/block/Icdayline4Block.java"
+        ]
+      }
+    },
+    {
+      "name": "Trenitalialogosmall",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trenitalialogosmall",
+      "metadata": {
+        "files": [
+          "src/main/java/net/kconlac/extraindeco/block/TrenitalialogosmallBlock.java",
+          "src/main/resources/assets/extraindeco/models/item/trenitalialogosmall.json",
+          "src/main/resources/assets/extraindeco/models/block/trenitalialogosmall.json",
+          "src/main/resources/assets/extraindeco/blockstates/trenitalialogosmall.json",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/trenitalialogosmall.json"
+        ]
+      }
+    },
+    {
+      "name": "Trenitalialogo2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trenitalialogo_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/kconlac/extraindeco/block/Trenitalialogo2Block.java",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/trenitalialogo_2.json",
+          "src/main/resources/assets/extraindeco/models/item/trenitalialogo_2.json",
+          "src/main/resources/assets/extraindeco/blockstates/trenitalialogo_2.json",
+          "src/main/resources/assets/extraindeco/models/block/trenitalialogo_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Trenitalialogo3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trenitalialogo_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/kconlac/extraindeco/block/Trenitalialogo3Block.java",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/trenitalialogo_3.json",
+          "src/main/resources/assets/extraindeco/models/item/trenitalialogo_3.json",
+          "src/main/resources/assets/extraindeco/blockstates/trenitalialogo_3.json",
+          "src/main/resources/assets/extraindeco/models/block/trenitalialogo_3.json"
+        ]
+      }
+    },
+    {
+      "name": "Trenitalialogo4",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trenitalialogo_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/models/item/trenitalialogo_4.json",
+          "src/main/resources/assets/extraindeco/blockstates/trenitalialogo_4.json",
+          "src/main/resources/assets/extraindeco/models/block/trenitalialogo_4.json",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/trenitalialogo_4.json",
+          "src/main/java/net/kconlac/extraindeco/block/Trenitalialogo4Block.java"
+        ]
+      }
+    },
+    {
+      "name": "SBBlogo",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sb_blogo",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/models/block/sb_blogo.json",
+          "src/main/resources/assets/extraindeco/blockstates/sb_blogo.json",
+          "src/main/java/net/kconlac/extraindeco/block/SBBlogoBlock.java",
+          "src/main/resources/assets/extraindeco/models/item/sb_blogo.json",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/sb_blogo.json"
+        ]
+      }
+    },
+    {
+      "name": "Sbblogo2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sbblogo_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/models/item/sbblogo_2.json",
+          "src/main/resources/assets/extraindeco/blockstates/sbblogo_2.json",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/sbblogo_2.json",
+          "src/main/java/net/kconlac/extraindeco/block/Sbblogo2Block.java",
+          "src/main/resources/assets/extraindeco/models/block/sbblogo_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Sbblogo3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sbblogo_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/models/block/sbblogo_3.json",
+          "src/main/java/net/kconlac/extraindeco/block/Sbblogo3Block.java",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/sbblogo_3.json",
+          "src/main/resources/assets/extraindeco/blockstates/sbblogo_3.json",
+          "src/main/resources/assets/extraindeco/models/item/sbblogo_3.json"
+        ]
+      }
+    },
+    {
+      "name": "Sbblogo4",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sbblogo_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/models/block/sbblogo_4.json",
+          "src/main/resources/assets/extraindeco/models/item/sbblogo_4.json",
+          "src/main/java/net/kconlac/extraindeco/block/Sbblogo4Block.java",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/sbblogo_4.json",
+          "src/main/resources/assets/extraindeco/blockstates/sbblogo_4.json"
+        ]
+      }
+    },
+    {
+      "name": "SBBRABe514",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sbbra_be_514",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/blockstates/sbbra_be_514.json",
+          "src/main/resources/assets/extraindeco/models/block/sbbra_be_514.json",
+          "src/main/java/net/kconlac/extraindeco/block/SBBRABe514Block.java",
+          "src/main/resources/assets/extraindeco/models/item/sbbra_be_514.json",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/sbbra_be_514.json"
+        ]
+      }
+    },
+    {
+      "name": "SBBRABe5142",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sbbra_be_5142",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/models/block/sbbra_be_5142.json",
+          "src/main/resources/assets/extraindeco/models/item/sbbra_be_5142.json",
+          "src/main/resources/assets/extraindeco/blockstates/sbbra_be_5142.json",
+          "src/main/java/net/kconlac/extraindeco/block/SBBRABe5142Block.java",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/sbbra_be_5142.json"
+        ]
+      }
+    },
+    {
+      "name": "SBBRABe5143",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sbbra_be_5143",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/models/item/sbbra_be_5143.json",
+          "src/main/java/net/kconlac/extraindeco/block/SBBRABe5143Block.java",
+          "src/main/resources/assets/extraindeco/blockstates/sbbra_be_5143.json",
+          "src/main/resources/assets/extraindeco/models/block/sbbra_be_5143.json",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/sbbra_be_5143.json"
+        ]
+      }
+    },
+    {
+      "name": "SBBRABe5144",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sbbra_be_5144",
+      "metadata": {
+        "files": [
+          "src/main/java/net/kconlac/extraindeco/block/SBBRABe5144Block.java",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/sbbra_be_5144.json",
+          "src/main/resources/assets/extraindeco/models/item/sbbra_be_5144.json",
+          "src/main/resources/assets/extraindeco/blockstates/sbbra_be_5144.json",
+          "src/main/resources/assets/extraindeco/models/block/sbbra_be_5144.json"
+        ]
+      }
+    },
+    {
+      "name": "SBBflirtlogo1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sb_bflirtlogo_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/models/item/sb_bflirtlogo_1.json",
+          "src/main/java/net/kconlac/extraindeco/block/SBBflirtlogo1Block.java",
+          "src/main/resources/assets/extraindeco/models/block/sb_bflirtlogo_1.json",
+          "src/main/resources/assets/extraindeco/blockstates/sb_bflirtlogo_1.json",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/sb_bflirtlogo_1.json"
+        ]
+      }
+    },
+    {
+      "name": "SBBflirtlogo2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sb_bflirtlogo_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/loot_tables/blocks/sb_bflirtlogo_2.json",
+          "src/main/resources/assets/extraindeco/models/block/sb_bflirtlogo_2.json",
+          "src/main/resources/assets/extraindeco/blockstates/sb_bflirtlogo_2.json",
+          "src/main/java/net/kconlac/extraindeco/block/SBBflirtlogo2Block.java",
+          "src/main/resources/assets/extraindeco/models/item/sb_bflirtlogo_2.json"
+        ]
+      }
+    },
+    {
+      "name": "SBBflirtlogo3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sb_bflirtlogo_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/blockstates/sb_bflirtlogo_3.json",
+          "src/main/resources/assets/extraindeco/models/block/sb_bflirtlogo_3.json",
+          "src/main/java/net/kconlac/extraindeco/block/SBBflirtlogo3Block.java",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/sb_bflirtlogo_3.json",
+          "src/main/resources/assets/extraindeco/models/item/sb_bflirtlogo_3.json"
+        ]
+      }
+    },
+    {
+      "name": "SBBflirtlogo4",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sb_bflirtlogo_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/kconlac/extraindeco/block/SBBflirtlogo4Block.java",
+          "src/main/resources/assets/extraindeco/models/item/sb_bflirtlogo_4.json",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/sb_bflirtlogo_4.json",
+          "src/main/resources/assets/extraindeco/blockstates/sb_bflirtlogo_4.json",
+          "src/main/resources/assets/extraindeco/models/block/sb_bflirtlogo_4.json"
+        ]
+      }
+    },
+    {
+      "name": "DBlogo1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_blogo_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/loot_tables/blocks/d_blogo_1.json",
+          "src/main/resources/assets/extraindeco/blockstates/d_blogo_1.json",
+          "src/main/resources/assets/extraindeco/models/item/d_blogo_1.json",
+          "src/main/java/net/kconlac/extraindeco/block/DBlogo1Block.java",
+          "src/main/resources/assets/extraindeco/models/block/d_blogo_1.json"
+        ]
+      }
+    },
+    {
+      "name": "DBlogo2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "d_blogo_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/models/block/d_blogo_2.json",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/d_blogo_2.json",
+          "src/main/java/net/kconlac/extraindeco/block/DBlogo2Block.java",
+          "src/main/resources/assets/extraindeco/blockstates/d_blogo_2.json",
+          "src/main/resources/assets/extraindeco/models/item/d_blogo_2.json"
+        ]
+      }
+    },
+    {
+      "name": "SBBdoorred",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sb_bdoorred",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/loot_tables/blocks/sb_bdoorred.json",
+          "src/main/resources/assets/extraindeco/models/item/sb_bdoorred.json",
+          "src/main/resources/assets/extraindeco/blockstates/sb_bdoorred.json",
+          "src/main/resources/assets/extraindeco/models/block/sb_bdoorred.json",
+          "src/main/java/net/kconlac/extraindeco/block/SBBdoorredBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Dpr",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dpr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/loot_tables/blocks/dpr.json",
+          "src/main/resources/assets/extraindeco/blockstates/dpr.json",
+          "src/main/resources/assets/extraindeco/models/item/dpr.json",
+          "src/main/resources/assets/extraindeco/models/block/dpr.json",
+          "src/main/java/net/kconlac/extraindeco/block/DprBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Signal",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "signal",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/loot_tables/blocks/signal.json",
+          "src/main/java/net/kconlac/extraindeco/block/SignalBlock.java",
+          "src/main/resources/assets/extraindeco/blockstates/signal.json",
+          "src/main/resources/assets/extraindeco/models/block/signal.json",
+          "src/main/resources/assets/extraindeco/models/item/signal.json"
+        ]
+      }
+    },
+    {
+      "name": "Signal2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "signal_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/models/item/signal_2.json",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/signal_2.json",
+          "src/main/resources/assets/extraindeco/blockstates/signal_2.json",
+          "src/main/resources/assets/extraindeco/models/block/signal_2.json",
+          "src/main/java/net/kconlac/extraindeco/block/Signal2Block.java"
+        ]
+      }
+    },
+    {
+      "name": "Scharfenbergcoupler",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "scharfenbergcoupler",
+      "metadata": {
+        "files": [
+          "src/main/java/net/kconlac/extraindeco/block/ScharfenbergcouplerBlock.java",
+          "src/main/resources/assets/extraindeco/blockstates/scharfenbergcoupler.json",
+          "src/main/resources/assets/extraindeco/models/item/scharfenbergcoupler.json",
+          "src/main/resources/assets/extraindeco/models/block/scharfenbergcoupler.json",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/scharfenbergcoupler.json"
+        ]
+      }
+    },
+    {
+      "name": "Ironpole",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironpole",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/models/item/ironpole.json",
+          "src/main/java/net/kconlac/extraindeco/item/IronpoleItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Polecraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polecraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/polecraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Stonecuttertest",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stonecuttertest",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/stonecuttertest.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc3",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_3.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc4",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_4.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc5",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_5.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc6",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_6.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc7",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_7.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc8",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_8.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc9",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_9.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc10",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_10.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc11",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_11.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc12",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_12",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_12.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc13",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_13",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_13.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc14",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_14",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_14.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc15",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_15",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_15.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc16",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_16",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_16.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc17",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_17",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_17.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc18",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_18",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_18.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc19",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_19",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_19.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc20",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_20",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_20.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc21",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_21",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_21.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc22",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_22",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_22.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc23",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_23",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_23.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc24",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_24",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_24.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc25",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_25",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_25.json"
+        ]
+      }
+    },
+    {
+      "name": "Sc26",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sc_26",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sc_26.json"
+        ]
+      }
+    },
+    {
+      "name": "Couplerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "couplerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/couplerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Platformsignbase",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "platformsignbase",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/loot_tables/blocks/platformsignbase.json",
+          "src/main/java/net/kconlac/extraindeco/block/PlatformsignbaseBlock.java",
+          "src/main/resources/assets/extraindeco/blockstates/platformsignbase.json",
+          "src/main/resources/assets/extraindeco/models/block/platformsignbase.json",
+          "src/main/resources/assets/extraindeco/models/item/platformsignbase.json"
+        ]
+      }
+    },
+    {
+      "name": "Plfcraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plfcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/plfcraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Plf1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plf_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/plf_1.json"
+        ]
+      }
+    },
+    {
+      "name": "Plf2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plf_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/plf_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Plf3",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plf_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/plf_3.json"
+        ]
+      }
+    },
+    {
+      "name": "Plf4",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plf_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/plf_4.json"
+        ]
+      }
+    },
+    {
+      "name": "Plf5",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plf_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/plf_5.json"
+        ]
+      }
+    },
+    {
+      "name": "Plf6",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plf_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/plf_6.json"
+        ]
+      }
+    },
+    {
+      "name": "Plf7",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plf_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/plf_7.json"
+        ]
+      }
+    },
+    {
+      "name": "Plf8",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plf_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/plf_8.json"
+        ]
+      }
+    },
+    {
+      "name": "Plf9",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plf_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/plf_9.json"
+        ]
+      }
+    },
+    {
+      "name": "Plf10",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plf_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/plf_10.json"
+        ]
+      }
+    },
+    {
+      "name": "Plf1t",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plf_1t",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/plf_1t.json"
+        ]
+      }
+    },
+    {
+      "name": "Plf2t",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "plf_2t",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/plf_2t.json"
+        ]
+      }
+    },
+    {
+      "name": "Sg1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sg_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sg_1.json"
+        ]
+      }
+    },
+    {
+      "name": "Sg2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sg_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/sg_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Polerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/polerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Shortscharfenbergcoupler",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shortscharfenbergcoupler",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/extraindeco/models/item/shortscharfenbergcoupler.json",
+          "src/main/resources/assets/extraindeco/blockstates/shortscharfenbergcoupler.json",
+          "src/main/resources/assets/extraindeco/models/block/shortscharfenbergcoupler.json",
+          "src/main/resources/data/extraindeco/loot_tables/blocks/shortscharfenbergcoupler.json",
+          "src/main/java/net/kconlac/extraindeco/block/ShortscharfenbergcouplerBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Shortrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shortrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/shortrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Stationbench",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stationbench",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/loot_tables/blocks/stationbench.json",
+          "src/main/resources/assets/extraindeco/blockstates/stationbench.json",
+          "src/main/resources/assets/extraindeco/models/block/stationbench.json",
+          "src/main/java/net/kconlac/extraindeco/block/StationbenchBlock.java",
+          "src/main/resources/assets/extraindeco/models/item/stationbench.json"
+        ]
+      }
+    },
+    {
+      "name": "Stationbenchrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stationbenchrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/extraindeco/recipes/stationbenchrecipe.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:Stationbench",
+      "~CUSTOM:Shortscharfenbergcoupler",
+      "~CUSTOM:Platformsignbase",
+      "~CUSTOM:Scharfenbergcoupler",
+      "~CUSTOM:Signal2",
+      "~CUSTOM:Signal",
+      "~CUSTOM:Dpr",
+      "~CUSTOM:SBBdoorred",
+      "~CUSTOM:DBlogo2",
+      "~CUSTOM:DBlogo1",
+      "~CUSTOM:SBBflirtlogo4",
+      "~CUSTOM:SBBflirtlogo3",
+      "~CUSTOM:SBBflirtlogo2",
+      "~CUSTOM:SBBflirtlogo1",
+      "~CUSTOM:SBBRABe5144",
+      "~CUSTOM:SBBRABe5143",
+      "~CUSTOM:SBBRABe5142",
+      "~CUSTOM:SBBRABe514",
+      "~CUSTOM:Sbblogo4",
+      "~CUSTOM:Sbblogo3",
+      "~CUSTOM:Sbblogo2",
+      "~CUSTOM:SBBlogo",
+      "~CUSTOM:Trenitalialogo4",
+      "~CUSTOM:Trenitalialogo3",
+      "~CUSTOM:Trenitalialogo2",
+      "~CUSTOM:Trenitalialogosmall",
+      "~CUSTOM:Icdayline4",
+      "~CUSTOM:Icdayline3",
+      "~CUSTOM:Icdayline2",
+      "~CUSTOM:Icdayline",
+      "~CUSTOM:SBBblue",
+      "~CUSTOM:Doorred",
+      "~CUSTOM:Luggagerack",
+      "~CUSTOM:Platformsign2T",
+      "~CUSTOM:Platformsign1T",
+      "~CUSTOM:Platformsign10",
+      "~CUSTOM:Platformsign9",
+      "~CUSTOM:Platformsign8",
+      "~CUSTOM:Platformsign7",
+      "~CUSTOM:Platformsign6",
+      "~CUSTOM:Platformsign5",
+      "~CUSTOM:Platformsign4",
+      "~CUSTOM:Platformsign3",
+      "~CUSTOM:Platformsign2",
+      "~CUSTOM:Platformsign1",
+      "~CUSTOM:Trainbin",
+      "~CUSTOM:Traintable"
+    ]
+  },
+  "tab_element_order": {
+    "CUSTOM:B": [
+      "Traintable",
+      "Trainbin",
+      "Luggagerack",
+      "Stationbench",
+      "Platformsignbase",
+      "Platformsign1",
+      "Platformsign2",
+      "Platformsign3",
+      "Platformsign4",
+      "Platformsign5",
+      "Platformsign6",
+      "Platformsign7",
+      "Platformsign8",
+      "Platformsign9",
+      "Platformsign10",
+      "Platformsign1T",
+      "Platformsign2T",
+      "SBBblue",
+      "SBBdoorred",
+      "Icdayline",
+      "Icdayline2",
+      "Icdayline3",
+      "Icdayline4",
+      "Doorred",
+      "Trenitalialogosmall",
+      "Trenitalialogo2",
+      "Trenitalialogo3",
+      "Trenitalialogo4",
+      "SBBlogo",
+      "Sbblogo2",
+      "Sbblogo3",
+      "Sbblogo4",
+      "SBBRABe514",
+      "SBBRABe5142",
+      "SBBRABe5143",
+      "SBBRABe5144",
+      "SBBflirtlogo1",
+      "SBBflirtlogo2",
+      "SBBflirtlogo3",
+      "SBBflirtlogo4",
+      "DBlogo1",
+      "DBlogo2",
+      "Dpr",
+      "Signal",
+      "Signal2",
+      "Scharfenbergcoupler",
+      "Shortscharfenbergcoupler",
+      "Ironpole"
+    ]
+  },
+  "language_map": {
+    "it_it": {
+      "block.extraindeco.sbbra_be_5142": "Logo RABe 514 SBB 2",
+      "block.extraindeco.sbbra_be_5143": "Logo RABe 514 SBB 3",
+      "item_group.extended_train_deco.creativetab": "Extended train deco",
+      "block.extraindeco.platformsign_2_t": "Cartello binario 2T",
+      "block.extraindeco.sbbra_be_5144": "Logo RABe 514 SBB 4",
+      "block.extraindeco.sbbra_be_514": "Logo RABe 514 SBB 1",
+      "block.extraindeco.dpr": "Livrea DPR",
+      "item_group.extraindeco.creativetab": "Extended train deco",
+      "block.extraindeco.sb_bdoorred": "Rosso SBB",
+      "block.extended_train_deco.platformsign_10": "Cartello binario 10",
+      "block.extended_train_deco.platformsign_8": "Cartello binario 8",
+      "block.extended_train_deco.platformsign_9": "Cartello binario 9",
+      "block.extended_train_deco.platformsign_6": "Cartello binario 6",
+      "block.extended_train_deco.platformsign_7": "Cartello binario 7",
+      "block.extended_train_deco.platformsign_4": "Cartello binario 4",
+      "block.extraindeco.scharfenbergcoupler": "Gancio scharfenberg",
+      "block.extended_train_deco.platformsign_5": "Cartello binario 5",
+      "block.extended_train_deco.platformsign_2": "Cartello binario 2",
+      "block.extended_train_deco.platformsign_3": "Cartello binario 3",
+      "block.extraindeco.platformsignbase": "Base cartello binario",
+      "block.extended_train_deco.platformsign_1": "Cartello binario 1",
+      "block.extraindeco.icdayline1": "Linea IC day 1",
+      "block.extraindeco.icdayline_4": "Linea IC day 4",
+      "block.extraindeco.icdayline_3": "Linea IC day 3",
+      "block.extraindeco.icdayline_2": "Linea IC day 2",
+      "block.extraindeco.sb_bflirtlogo_3": "Logo Flirt SBB 3",
+      "block.extraindeco.d_blogo_1": "Logo DB 1",
+      "block.extraindeco.sb_bblue": "Blu SBB",
+      "block.extraindeco.sb_bflirtlogo_2": "Logo Flirt SBB 2",
+      "block.extraindeco.stationbench": "Station bench",
+      "block.extraindeco.sb_bflirtlogo_4": "Logo Flirt SBB 4",
+      "block.extraindeco.sb_bflirtlogo_1": "Logo Flirt SBB 1",
+      "block.extended_train_deco.platformsign_2_t": "Cartello binario 2T",
+      "block.extraindeco.platformsign_10": "Cartello binario 10",
+      "block.extraindeco.d_blogo_2": "Logo DB 2",
+      "block.extraindeco.platformsign_1_t": "Cartello binario 1T",
+      "block.extraindeco.platformsign_1": "Cartello binario 1",
+      "block.extraindeco.sb_blogo": "Logo SBB 1",
+      "block.extraindeco.sbblogo_3": "Logo SBB 3",
+      "block.extraindeco.sbblogo_2": "Logo SBB 2",
+      "block.extraindeco.signal": "Base del Segnale",
+      "block.extraindeco.sbblogo_4": "Logo SBB 4",
+      "block.extraindeco.luggagerack": "Cappelliera",
+      "block.extraindeco.platformsign_4": "Cartello binario 4",
+      "block.extraindeco.platformsign_5": "Cartello binario 5",
+      "block.extraindeco.platformsign_2": "Cartello binario 2",
+      "block.extraindeco.platformsign_3": "Cartello binario 3",
+      "block.extraindeco.train_table": "Tavolino",
+      "block.extraindeco.platformsign_8": "Cartello binario 8",
+      "block.extraindeco.platformsign_9": "Cartello binario 9",
+      "block.extraindeco.platformsign_6": "Cartello binario 6",
+      "block.extraindeco.platformsign_7": "Cartello binario 7",
+      "block.extraindeco.signal_2": "Testa del segnale",
+      "block.extraindeco.shortscharfenbergcoupler": "Gancio scharfenberg corto",
+      "block.extended_train_deco.luggagerack": "Cappelliera",
+      "block.extraindeco.trainbin": "Cestino",
+      "block.extraindeco.trenitalialogo1": "Logo Trenitalia 1",
+      "item.extraindeco.ironpole": "Palo di ferro",
+      "block.extended_train_deco.platformsign_1_t": "Cartello binario 1T",
+      "block.extraindeco.trenitalialogo_3": "Logo Trenitalia 3",
+      "block.extraindeco.trenitalialogo_2": "Logo Trenitalia 2",
+      "block.extended_train_deco.train_table": "Tavolino",
+      "block.extraindeco.trenitalialogosmall": "Logo Trenitalia piccolo",
+      "block.extended_train_deco.trainbin": "Cestino",
+      "block.extraindeco.trenitalialogo_4": "Logo Trenitalia 4"
+    },
+    "en_us": {
+      "block.extraindeco.sbbra_be_5142": "SBB logo RABe 514 2",
+      "block.extraindeco.sbbra_be_5143": "SBB logo RABe 514 3",
+      "item_group.extended_train_deco.creativetab": "Extended train deco",
+      "block.extraindeco.platformsign_2_t": "FS Platform sign 2T",
+      "block.extraindeco.sbbra_be_5144": "SBB logo RABe 514 4",
+      "block.extraindeco.sbbra_be_514": "SBB logo RABe 514 1",
+      "item_group.extraindeco.creativetab": "Extended train deco",
+      "block.extraindeco.dpr": "Dpr livery",
+      "block.extraindeco.sb_bdoorred": "SBB red",
+      "block.extended_train_deco.platformsign_10": "FS Platform sign 10",
+      "block.extended_train_deco.platformsign_8": "FS Platform sign 8",
+      "block.extended_train_deco.platformsign_9": "FS Platform sign 9",
+      "block.extended_train_deco.platformsign_6": "FS Platform sign 6",
+      "block.extended_train_deco.platformsign_7": "FS Platform sign 7",
+      "block.extended_train_deco.platformsign_4": "FS Platform sign 4",
+      "block.extraindeco.scharfenbergcoupler": "Scharfenberg coupler",
+      "block.extended_train_deco.platformsign_5": "FS Platform sign 5",
+      "block.extended_train_deco.platformsign_2": "FS Platform sign 2",
+      "block.extended_train_deco.platformsign_3": "FS Platform sign 3",
+      "block.extraindeco.platformsignbase": "FS Platform sign base",
+      "block.extended_train_deco.platformsign_1": "FS Platform sign 1",
+      "block.extraindeco.icdayline1": "IC day line 1",
+      "block.extraindeco.icdayline_4": "IC day line 4",
+      "block.extraindeco.icdayline_3": "IC day line 3",
+      "block.extraindeco.icdayline_2": "IC day line 2",
+      "block.extraindeco.sb_bflirtlogo_3": "SBB logo Flirt 3",
+      "block.extraindeco.d_blogo_1": "DB logo 1",
+      "block.extraindeco.sb_bblue": "SBB blue",
+      "block.extraindeco.sb_bflirtlogo_2": "SBB logo Flirt 2",
+      "block.extraindeco.stationbench": "Station bench",
+      "block.extraindeco.sb_bflirtlogo_4": "SBB logo Flirt 4",
+      "block.extraindeco.sb_bflirtlogo_1": "SBB logo Flirt 1",
+      "block.extended_train_deco.platformsign_2_t": "FS Platform sign 2T",
+      "block.extraindeco.platformsign_10": "FS Platform sign 10",
+      "block.extraindeco.d_blogo_2": "DB logo 2",
+      "block.extraindeco.platformsign_1_t": "FS Platform sign 1T",
+      "block.extraindeco.platformsign_1": "FS Platform sign 1",
+      "block.extraindeco.sb_blogo": "SBB logo 1",
+      "block.extraindeco.sbblogo_3": "SBB logo 3",
+      "block.extraindeco.sbblogo_2": "SBB logo 2",
+      "block.extraindeco.signal": "Signal base",
+      "block.extraindeco.sbblogo_4": "SBB logo 4",
+      "block.extraindeco.luggagerack": "Luggage rack",
+      "block.extraindeco.platformsign_4": "FS Platform sign 4",
+      "block.extraindeco.platformsign_5": "FS Platform sign 5",
+      "block.extraindeco.platformsign_2": "FS Platform sign 2",
+      "block.extraindeco.platformsign_3": "FS Platform sign 3",
+      "block.extraindeco.train_table": "Train table",
+      "block.extraindeco.platformsign_8": "FS Platform sign 8",
+      "block.extraindeco.platformsign_9": "FS Platform sign 9",
+      "block.extraindeco.platformsign_6": "FS Platform sign 6",
+      "block.extraindeco.platformsign_7": "FS Platform sign 7",
+      "block.extraindeco.signal_2": "signal head",
+      "block.extraindeco.shortscharfenbergcoupler": "Short scharfenberg coupler",
+      "block.extended_train_deco.luggagerack": "Luggage rack",
+      "block.extraindeco.trainbin": "Train bin",
+      "block.extraindeco.trenitalialogo1": "Trenitalia logo 1",
+      "item.extraindeco.ironpole": "Iron pole",
+      "block.extended_train_deco.platformsign_1_t": "FS Platform sign 1T",
+      "block.extraindeco.trenitalialogo_3": "Trenitalia logo 3",
+      "block.extraindeco.trenitalialogo_2": "Trenitalia logo 2",
+      "block.extended_train_deco.train_table": "Train table",
+      "block.extraindeco.trenitalialogosmall": "Trenitalia logo small",
+      "block.extended_train_deco.trainbin": "Train bin",
+      "block.extraindeco.trenitalialogo_4": "Trenitalia logo 4"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "extraindeco",
+    "modName": "Extended train deco",
+    "version": "0.2.0",
+    "author": "kconlac",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Made by:kconlac and Fake_enderpro",
+    "modElementsPackage": "net.kconlac.extraindeco"
+  },
+  "mcreatorVersion": 202400452410
+}

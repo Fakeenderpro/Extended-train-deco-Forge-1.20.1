@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "extraindeco:block/sb_blogo"
+    },
+    "facing=east": {
+      "model": "extraindeco:block/sb_blogo",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "extraindeco:block/sb_blogo",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "extraindeco:block/sb_blogo",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "extraindeco:block/sb_blogo",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "extraindeco:block/sb_blogo",
+      "x": 90
+    }
+  }
+}

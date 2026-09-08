@@ -1,0 +1,12 @@
+{
+  "parent": "extraindeco:custom/bintrain",
+  "textures": {
+    "all": "extraindeco:block/bin_0",
+    "particle": "extraindeco:block/bin_0",
+    "0": "extraindeco:block/bin_0",
+    "1": "extraindeco:block/bin_1",
+    "2": "extraindeco:block/bin_2",
+    "3": "extraindeco:block/bin_3"
+  },
+  "render_type": "solid"
+}

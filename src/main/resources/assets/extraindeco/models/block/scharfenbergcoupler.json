@@ -1,0 +1,11 @@
+{
+  "parent": "extraindeco:custom/scharfenberg_coupler_fix_2",
+  "textures": {
+    "all": "extraindeco:block/small_buffer",
+    "particle": "extraindeco:block/small_buffer",
+    "5": "extraindeco:block/sb2",
+    "6": "extraindeco:block/cp2",
+    "missing": "extraindeco:block/"
+  },
+  "render_type": "solid"
+}

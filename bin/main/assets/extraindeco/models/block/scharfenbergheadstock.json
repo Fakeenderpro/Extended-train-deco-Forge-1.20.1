@@ -1,0 +1,9 @@
+{
+  "parent": "extraindeco:custom/scharfenberg_headstock",
+  "textures": {
+    "all": "extraindeco:block/copycat_base",
+    "particle": "extraindeco:block/copycat_base",
+    "2": "extraindeco:block/copycat_base"
+  },
+  "render_type": "cutout"
+}

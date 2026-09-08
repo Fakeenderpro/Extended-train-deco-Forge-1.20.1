@@ -1,0 +1,9 @@
+{
+  "parent": "extraindeco:custom/station_benchfix3",
+  "textures": {
+    "all": "extraindeco:block/bench1fix",
+    "particle": "extraindeco:block/bench1fix",
+    "0": "extraindeco:block/bench1fix"
+  },
+  "render_type": "translucent"
+}

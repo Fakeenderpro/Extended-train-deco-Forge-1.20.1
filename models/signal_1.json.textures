@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "signal_base",
+        "1": "signal_face",
+        "3": "signal_pole",
+        "4": "signal_pole_2",
+        "6": "signal_pole_3",
+        "missing": "signal_pole_4"
+      },
+      "name": "default"
+    }
+  }
+}

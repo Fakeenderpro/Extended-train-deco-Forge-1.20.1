@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    "bc"
+  ],
+  "key": {
+    "a": {
+      "item": "create:electron_tube"
+    },
+    "b": {
+      "tag": "forge:glass"
+    },
+    "c": {
+      "item": "create:iron_sheet"
+    }
+  },
+  "result": {
+    "item": "extraindeco:display",
+    "count": 2
+  }
+}

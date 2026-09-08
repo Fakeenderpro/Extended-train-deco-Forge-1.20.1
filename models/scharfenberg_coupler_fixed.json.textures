@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "5": "coupler",
+        "6": "small_buffer",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}
